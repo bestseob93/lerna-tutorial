@@ -1,6 +1,6 @@
 {
   "name": "@bestseob/usage",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@bestseob/core-d": "^4.0.0",
+    "@bestseob/core-d": "^4.0.1",
     "@bestseob/core-s": "^6.0.0"
   },
   "repository": {
