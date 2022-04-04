@@ -1,5 +1,5 @@
 {
-  "name": "@besteob/alpha",
+  "name": "@besteob/core-d",
   "version": "2.1.2",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "fb4fdfb4f0fba7860558168c69be2e4a55007151",
+  "gitHead": "b86f079742364c828e2039e9b443bd4f079a15ad",
   "publishConfig": {
     "access": "public"
   }
