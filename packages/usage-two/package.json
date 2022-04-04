@@ -1,0 +1,30 @@
+{
+  "name": "@bestseob/usage-two",
+  "version": "1.0.3",
+  "description": "> TODO: description",
+  "author": "bestseob93 <bestseob93@gmail.com>",
+  "homepage": "https://github.com/bestseob93/lerna-tutorial#readme",
+  "license": "MIT",
+  "main": "lib/usage-two.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestseob93/lerna-tutorial.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/bestseob93/lerna-tutorial/issues"
+  },
+  "gitHead": "226c0ba6f46085b1b245f432fdab868243fbd8fe"
+}

@@ -1,5 +1,5 @@
 {
-  "name": "beta",
+  "name": "@besteob/beta",
   "version": "3.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "gitHead": "226c0ba6f46085b1b245f432fdab868243fbd8fe"
 }
