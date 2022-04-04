@@ -1,3 +1,3 @@
-console.log('major2 minor')
+console.log('major3 minor')
 const beta = '1beta!@'
 module.exports = beta
