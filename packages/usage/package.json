@@ -1,6 +1,6 @@
 {
   "name": "@bestseob/usage",
-  "version": "3.4.2",
+  "version": "3.4.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,11 @@
     "alpha": "^2.1.0",
     "beta": "^3.0.0"
   },
-  "gitHead": "b86f079742364c828e2039e9b443bd4f079a15ad",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestseob93/lerna-tutorial.git"
+  },
+  "gitHead": "457e274476faa8763b3ec0541818eb936da11dfe",
   "publishConfig": {
     "access": "public"
   }
