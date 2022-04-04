@@ -1,1 +1,2 @@
-module.exports = 'beta'
+const beta = 'beta'
+module.exports = beta
