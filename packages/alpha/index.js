@@ -1,2 +1,2 @@
-console.log('major')
+console.log('major minor')
 module.exports = 'alpha!'
